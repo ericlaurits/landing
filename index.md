@@ -9,6 +9,14 @@ published: true
 
 [Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+Hi! It's great to have you here. 
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Things you might want to know: B.A. in Music from Colby College, an M.F.A. in Acting from the National Theatre Conservatory, and an M.Ed. in Elementary Education from George Mason University. Trained EMT, lifeguard, Wilderness First Responder. Used to grow almost everything we eat. Can balance very large objects [painting ladders] on chin.
+
+The following things are awesome: growing and baking things, volleyball, the bari sax, strawberry shortcake, old beat-up pickups, The Redwall Series, yoga, A & J King Artisan Bakers, New England, snow, Pupatella, sunrises, hot lemonade sweetened with maple syrup, home-made swings, deceptive cadences, and nachos, irony.
+
+You can find me on my [Seek the Joy (blog)](https://seekthejoy.com){:target="_blank"}, [Instagram](https://seekthejoy.com){:target="_blank"}, my upcoming [newsletter](https://goseek.substack.com){:target="_blank"}, and my [old photography archive](https://ericlaurits.popsy.site){:target="_blank"}.
+
+Currently our family is in foreign service in Nairobi, Kenya 🇰🇪. We will probably return to the US at some point.
+
+<iframe src="https://goseek.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
