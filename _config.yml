@@ -1,11 +1,11 @@
-### your site title here
+### eric laurits
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: eric laurits
+description: educator|writer|recovering photographer
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /landing #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: eric@ericlaurits.com
 
 
 highlighter: rouge
