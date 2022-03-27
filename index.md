@@ -7,8 +7,6 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
-
 Hi! It's great to have you here. 
 
 Things you might want to know: B.A. in Music from Colby College, an M.F.A. in Acting from the National Theatre Conservatory, and an M.Ed. in Elementary Education from George Mason University. Trained EMT, lifeguard, Wilderness First Responder. Used to grow almost everything we eat. Can balance very large objects [painting ladders] on chin.
