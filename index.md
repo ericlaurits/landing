@@ -15,4 +15,4 @@ You can find me on my [Seek the Joy (blog)](https://seekthejoy.com){:target="_bl
 
 Currently our family is in foreign service in Nairobi, Kenya 🇰🇪. We will probably return to the US at some point.
 
-<iframe src="https://goseek.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://goseek.substack.com/embed" width="350" height="300" style="border:1px solid #FFFFFF; background:white;" frameborder="0" scrolling="no"></iframe>
